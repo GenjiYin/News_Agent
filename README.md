@@ -1,2 +1,2 @@
-# KAN_network_for-quant
-使用KAN网络架构挖掘因子
+# 以deepseek为大脑的新闻数据分析的Agent
+
