@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 from langchain_community.tools.tavily_search import TavilySearchResults
 from openai import OpenAI
-deepseek_api = 'sk-09b2df08a3b2499189b7087b4a5ba98e'
+deepseek_api = '************************'
 
-os.environ['TAVILY_API_KEY'] = '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'
+os.environ['TAVILY_API_KEY'] = '****************************'
 
 from prompt import table_to_query, generate_prompt
 
