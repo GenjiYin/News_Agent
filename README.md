@@ -9,3 +9,6 @@
 2. 字典传入query当中；
 3. 在query中定义输出格式;
 4. 定义一个函数可以解析大模型的输出结果并转化为DataFrame.
+
+## 5. 实现效果
+![image](https://github.com/user-attachments/assets/aaf1c64f-85d3-4a7f-90a7-b48d3a3a6279)
